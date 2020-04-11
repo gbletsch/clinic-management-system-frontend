@@ -1,4 +1,5 @@
 import React from 'react';
+import WhatsappButton from '../components/WhastappButton'
 
 export default function AudioAppointment () {
   return (
@@ -12,11 +13,7 @@ export default function AudioAppointment () {
         Será agendado um horário de consulta e ligaremos 
         para você no horário agendado
       </p>
-      <a
-        className='button'
-        href="https://api.whatsapp.com/send?phone=5548988021771&text=Gostaria%20de%20agendar%20uma%20teleconsulta%20com%20Dr%20Guilherme."      >
-          Enviar whatsapp
-      </a>
+      <WhatsappButton />
     </div>
   );
 }
