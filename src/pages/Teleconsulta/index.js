@@ -25,7 +25,7 @@ export default function Teleconsulta() {
             funcionários serão realizadas preferencialmente 
             teleconsultas.
           </p>
-          <p>Escolha uma das 3 possibilidades de atendimento:</p>
+          <p>Clique em uma das 3 possibilidades de atendimento:</p>
           
           <input
             type="radio"
