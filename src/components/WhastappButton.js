@@ -1,8 +1,13 @@
 import React from 'react'
 
 export default function WhastappButton() {
-  const isMobile = window.innerWidth <= 500 || window.innerHeight <= 500
 
+  function isMobileDevice() {
+    return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+  };
+  
+  const isMobile = isMobileDevice()
+  
   let webOrApi = ''
   if (isMobile) {webOrApi = 'api'} else {webOrApi = 'web'} 
   return (
