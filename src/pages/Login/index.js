@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles.css'
+import './Styles.css'
 
 import logoImg from '../../assets/logo.png'
 import { FiLogIn } from 'react-icons/fi'
