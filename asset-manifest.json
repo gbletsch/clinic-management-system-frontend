@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gbletsch/clinic-management-system-frontend/static/css/main.59a4d177.chunk.css",
+    "main.js": "/gbletsch/clinic-management-system-frontend/static/js/main.3f82ffd1.chunk.js",
+    "main.js.map": "/gbletsch/clinic-management-system-frontend/static/js/main.3f82ffd1.chunk.js.map",
+    "runtime-main.js": "/gbletsch/clinic-management-system-frontend/static/js/runtime-main.ff7ce07f.js",
+    "runtime-main.js.map": "/gbletsch/clinic-management-system-frontend/static/js/runtime-main.ff7ce07f.js.map",
+    "static/css/2.764ccc25.chunk.css": "/gbletsch/clinic-management-system-frontend/static/css/2.764ccc25.chunk.css",
+    "static/js/2.51ec71f9.chunk.js": "/gbletsch/clinic-management-system-frontend/static/js/2.51ec71f9.chunk.js",
+    "static/js/2.51ec71f9.chunk.js.map": "/gbletsch/clinic-management-system-frontend/static/js/2.51ec71f9.chunk.js.map",
+    "index.html": "/gbletsch/clinic-management-system-frontend/index.html",
+    "precache-manifest.95d68d7a1e56148f0b7e83057d60cd92.js": "/gbletsch/clinic-management-system-frontend/precache-manifest.95d68d7a1e56148f0b7e83057d60cd92.js",
+    "service-worker.js": "/gbletsch/clinic-management-system-frontend/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/gbletsch/clinic-management-system-frontend/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.59a4d177.chunk.css.map": "/gbletsch/clinic-management-system-frontend/static/css/main.59a4d177.chunk.css.map",
+    "static/js/2.51ec71f9.chunk.js.LICENSE.txt": "/gbletsch/clinic-management-system-frontend/static/js/2.51ec71f9.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/gbletsch/clinic-management-system-frontend/static/media/logo.8d953f4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff7ce07f.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.51ec71f9.chunk.js",
+    "static/css/main.59a4d177.chunk.css",
+    "static/js/main.3f82ffd1.chunk.js"
+  ]
+}
