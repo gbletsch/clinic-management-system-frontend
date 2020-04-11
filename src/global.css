@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+h2 {
+  text-align: center;
+}
+
 body {
   font: 400 14px Roboto, sans-serif;
   background: #ddf3d2;

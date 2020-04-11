@@ -3,10 +3,10 @@ import React from 'react';
 export default function VideoAppointment () {
   return (
     <div className='appointment-container' >
-      <h3>
+      <h2>
         No momento, somente temos possibilidade de consultas por
         video utilizando o Hangouts. 
-      </h3>
+      </h2>
       <p>
         Entrar em contato com a <b>MedClin</b> apartir
         do dia 13/04/2020 pelos telefones: <b>(48) 3304-7306 
