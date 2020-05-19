@@ -8,7 +8,8 @@
 
 :root {
   --main-bg-color: #ddf3d2;
-  --second-bg-color: #23987E
+  --second-bg-color: #23987E;
+  --second-text-color: #FFF;
 }
 
 body {
@@ -18,13 +19,26 @@ body {
 }
 
 .top {
-  background-color: var(--second-bg-color);
+  /* background-color: var(--second-bg-color); */
+  background: url("./assets/cutted-boat.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: bisque;
+  background-attachment: fixed;
+
+  height: 300px;
+  width: 100%;
   padding:15px;
-  text-align:center;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 
 .top h1 {
-  color: #FFF;
+  margin: 0;
+  color: var(--second-text-color);
 }
 
 .first {
@@ -35,6 +49,7 @@ body {
   float:left;
   width:20%;
   text-align:center;
+  padding: 0 5px;
 }
 
 /* .menu a {
@@ -86,12 +101,28 @@ body {
 }
 
 .right {
-  background-color: var(--second-bg-color);
   float:left;
   width:20%;
-  padding:15px;
-  margin-top:7px;
+}
+.right .content {
+  background-color: var(--second-bg-color);
+  margin:15px 5px;
+  padding: 5px;
   text-align:center;
+  border-radius: 8px;
+}
+.right h2 {
+  margin-bottom: 20px;
+  color: var(--second-text-color);
+}
+.right img {
+  border-radius: 50%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.right p {
+  color: var(--second-text-color);
+  margin-bottom: 5px;
 }
 
 .footer {
@@ -100,6 +131,10 @@ body {
   padding:10px;
   margin-top:7px;
 }
+.footer p {
+  color: var(--second-text-color);
+}
+
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
