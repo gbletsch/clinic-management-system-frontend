@@ -1,4 +1,5 @@
 import React from 'react'
+import WhatsappButton from './WhatsappButton'
 
 function Menu() {
   return (
@@ -6,7 +7,10 @@ function Menu() {
       <a
         href="mailto:psiq.guilherme.letsch@gmail.com"
         className='button'
-      >Enviar email</a>
+      >
+        Enviar email
+      </a>
+      <WhatsappButton />
     </div>
   )
 }
