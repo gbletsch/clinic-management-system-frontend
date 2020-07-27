@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Consultas",
-    "description": "Durante a pandemia, para proteção dos pacientes e funcionários serão realizadas preferencialmente teleconsultas e consultas por email. Caso prefira uma consulta presencial, favor avisar no momento do agendamento.",
+    "description": "Durante a pandemia, para proteção dos pacientes e funcionários as consultas podem ser realizadas de maneira presencial, por telefone ou por email. Por limitações técnicas, não são realizados atendimentos de urgências e emergências, caso necessite de algum atendimento desta natureza, deve procurar um serviço adequado.",
     "complete_text": ""
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "id": 3,
-    "title": "Consultas por telefone",
-    "description": "Entrar em contato com a MedClin pelos telefones: (48) 3304-7306 - 3304-7296 ou por whatsapp: (48) 98802-1771. Será agendado um horário de consulta e ligaremos para você no horário agendado",
+    "title": "Consultas presenciais ou por telefone",
+    "description": "Entrar em contato com a MedClin pelos telefones: (48) 3304-7306 - 3304-7296 ou por whatsapp: (48) 98802-1771. Será agendado um horário de consulta e, caso seja uma consulta por telefone, ligaremos para você no horário combinado",
     "complete_text": ""
   }
 ]
